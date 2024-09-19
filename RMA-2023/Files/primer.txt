@@ -1,0 +1,42 @@
+void function FV()\процедура
+{	
+	writeline "Procedure write";
+	return;
+}
+
+int function randomNumber()\функция
+{
+	type int a = random()%10;\использование стандартной библиотеки
+	write "it is random number: ";
+	writeline a;
+	return a;	
+}
+
+main{\точка входа в программу
+	type symbol s = 'H';
+	type string str = "elаo!";
+	write s;
+	writeline str;
+	type int l = lenght(str);
+	write "Length of string: ";
+	writeline l;
+	FV();
+	type int r = randomNumber();
+	if r >= 5\условная конструкция
+	istrue [writeline "random number >= 5";]
+	isfalse[writeline "random number < 5";]
+	type int o = 0120;
+	type int h = 0x120;
+	type int d = 0b110;
+	writeline o;
+	writeline h;
+	writeline d;
+	writeline "circle";
+	while r\конструкция цикла
+	do[
+		writeline r;
+		r--;
+	]
+	type int q = (o + h) * d;
+	writeline q;
+}

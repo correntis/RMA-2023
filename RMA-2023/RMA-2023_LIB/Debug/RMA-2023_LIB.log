@@ -1,0 +1,3 @@
+﻿  RMA-2023_LIB.cpp
+C:\Users\Максим\Desktop\Курсач\RMA-2023\RMA-2023_LIB\RMA-2023_LIB.cpp(8,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  RMA-2023_LIB.vcxproj -> C:\Users\Максим\Desktop\Курсач\RMA-2023\RMA-2023\Debug\RMA-2023_LIB.lib

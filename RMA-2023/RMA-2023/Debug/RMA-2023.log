@@ -1,0 +1,6 @@
+﻿  Generator.cpp
+C:\Users\Максим\Desktop\Курсач\RMA-2023\RMA-2023\Generator.cpp(11,8): warning C4101: gen_ok: неиспользованная локальная переменная
+  LexAnaliz.cpp
+C:\Users\Максим\Desktop\Курсач\RMA-2023\RMA-2023\LexAnaliz.cpp(289,53): warning C4101: idbuffer: неиспользованная локальная переменная
+  Создание кода...
+  RMA-2023.vcxproj -> C:\Users\Максим\Desktop\Курсач\RMA-2023\RMA-2023\Debug\RMA-2023.exe

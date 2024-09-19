@@ -1,0 +1,25 @@
+﻿  Error.cpp
+  FST.cpp
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\FST.cpp(85,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Generator.cpp
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\Generator.cpp(11,8): warning C4101: gen_ok: неиспользованная локальная переменная
+  Greibach.cpp
+  In.cpp
+  IT.cpp
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\IT.cpp(55,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\IT.cpp(75,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\IT.cpp(116,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LexAnaliz.cpp
+  Log.cpp
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\Log.cpp(42,12): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  LT.cpp
+  MFST.cpp
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\MFST.cpp(242,66): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Parm.cpp
+  PolishNotation.cpp
+  RMA-2023.cpp
+  Semantic.cpp
+  stdafx.cpp
+  Создание кода...
+C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\MFST.cpp(223): warning C4172: возвращение адреса локальной или временной переменной : rc
+  RMA-2023.vcxproj -> C:\Users\Максим\Desktop\кп\RMA-2023\RMA-2023\x64\Debug\RMA-2023.exe
